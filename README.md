@@ -1,2 +1,2 @@
 # StarRail_Voice_Downloader
-星穹铁道语音下载
+星穹铁道语音下载，目前脚本只支持Windows系统
